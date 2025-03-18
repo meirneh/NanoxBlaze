@@ -1,0 +1,13 @@
+# IntelliJ IDEA
+.idea/
+out/
+*.iml
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# Config (para evitar subir datos sensibles)
+src/main/resources/config/config.properties
