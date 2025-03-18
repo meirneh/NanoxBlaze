@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestSuite" verbose="2">
+    <test name="Functional Tests">
+        <classes>
+            <class name="nanoxBlazeTests.e2eTests"/>
+            <class name="nanoxBlazeTests.LoginRegistrationTests"/>
+        </classes>
+    </test>
+</suite>
+
+

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-18T07:45:20 IST" name="TestSuite" finished-at="2025-03-18T07:45:45 IST" duration-ms="25523">
+    <groups>
+    </groups>
+    <test started-at="2025-03-18T07:45:20 IST" name="Functional Tests" finished-at="2025-03-18T07:45:45 IST" duration-ms="25523">
+      <class name="nanoxBlazeTests.e2eTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:nanoxBlazeTests.e2eTests@2f2d52ef]" started-at="2025-03-18T07:45:20 IST" name="setup" finished-at="2025-03-18T07:45:24 IST" duration-ms="4097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tc01()[pri:0, instance:nanoxBlazeTests.e2eTests@2f2d52ef]" started-at="2025-03-18T07:45:24 IST" name="tc01" finished-at="2025-03-18T07:45:28 IST" duration-ms="4403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method signature="tc02_validateCompletePurchase()[pri:0, instance:nanoxBlazeTests.e2eTests@2f2d52ef]" started-at="2025-03-18T07:45:29 IST" name="tc02_validateCompletePurchase" finished-at="2025-03-18T07:45:34 IST" duration-ms="5571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02_validateCompletePurchase -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:nanoxBlazeTests.e2eTests@2f2d52ef]" started-at="2025-03-18T07:45:34 IST" name="tearDown" finished-at="2025-03-18T07:45:35 IST" duration-ms="929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- nanoxBlazeTests.e2eTests -->
+      <class name="nanoxBlazeTests.LoginRegistrationTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:nanoxBlazeTests.LoginRegistrationTests@1f51431]" started-at="2025-03-18T07:45:35 IST" name="setup" finished-at="2025-03-18T07:45:38 IST" duration-ms="3297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tc01_validateSuccessfulLogin()[pri:0, instance:nanoxBlazeTests.LoginRegistrationTests@1f51431]" started-at="2025-03-18T07:45:38 IST" name="tc01_validateSuccessfulLogin" finished-at="2025-03-18T07:45:41 IST" duration-ms="2349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01_validateSuccessfulLogin -->
+        <test-method signature="tc02_validateLogoutFunctionality()[pri:0, instance:nanoxBlazeTests.LoginRegistrationTests@1f51431]" started-at="2025-03-18T07:45:41 IST" name="tc02_validateLogoutFunctionality" finished-at="2025-03-18T07:45:43 IST" duration-ms="2090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02_validateLogoutFunctionality -->
+        <test-method signature="tc03_verifyExistingUserError()[pri:0, instance:nanoxBlazeTests.LoginRegistrationTests@1f51431]" started-at="2025-03-18T07:45:43 IST" name="tc03_verifyExistingUserError" finished-at="2025-03-18T07:45:44 IST" duration-ms="1414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03_verifyExistingUserError -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:nanoxBlazeTests.LoginRegistrationTests@1f51431]" started-at="2025-03-18T07:45:44 IST" name="tearDown" finished-at="2025-03-18T07:45:45 IST" duration-ms="872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- nanoxBlazeTests.LoginRegistrationTests -->
+    </test> <!-- Functional Tests -->
+  </suite> <!-- TestSuite -->
+</testng-results>

@@ -1,0 +1,10 @@
+nanoxBlazePageObjects\ProductPage.class
+nanoxBlazePageObjects\BasePage.class
+stepDefinitions\LoginSteps.class
+nanoxBlazeTests\BaseTest.class
+nanoxBlazeTests\LoginRegistrationTests.class
+nanoxBlazePageObjects\PlaceOrderPage.class
+runners\TestRunner.class
+nanoxBlazeTests\e2eTests.class
+nanoxBlazePageObjects\CartPage.class
+nanoxBlazePageObjects\HomePage.class

@@ -1,0 +1,1 @@
+{"uuid":"9ab36048-ac37-400b-9ec5-2f79cda9d90c","name":"nanoxBlazeTests.e2eTests","children":["7c395e7e-2193-401a-a0a7-6d851c27b464"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1742187041004,"stop":1742187045274}],"afters":[],"start":1742187040911,"stop":1742187050667}
